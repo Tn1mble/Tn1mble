@@ -53,6 +53,10 @@
 
 <br/>
 
+[<img src="https://img.shields.io/badge/Мой Telegram_канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">](https://t.me/tohfams_tp)
+
+<br/>
+
 <img src="https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" align="left" height="350" width="760" style="border: none; outline: none;" />
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
