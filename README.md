@@ -35,6 +35,23 @@
 
 3. Ethical Hacker 16 - xx - Любительская специальность, работая в колледже - тестировал систему безопасности, так-же собрал свою Red Team
 
+🏆 Сертификаты и мои достижения
+
+- 📜 **CISCO - Introduction to Cybersecurity** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
+- 📜 **FORTINET - Course_Completion_Certificate 1** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/FORTINET%20-%20Course_Completion_Certificate%201.pdf)
+- 📜 **FORTINET - Course_Completion_Certificate 2** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/FORTINET%20-%20Course_Completion_Certificate%202.pdf)
+- 📜 **FORTINET - Course_Completion_Certificate 3** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/FORTINET%20-%20Course_Completion_Certificate%203.pdf)
+- 📜 **IBM - Cybersecurity Fundamentals** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/IBM%20-%20IBMDesign20251010-31-vmvx20.pdf)
+- 📜 **Splunk - intro to Splunk** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate.pdf)
+- 📜 **Splunk - Using Fields** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate2.pdf)
+- 📜 **Splunk - Scheduling Reports & Alerts** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
+- 📜 **Splunk - Scheduling Reports & Alerts** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
+- 📜 **Stepik - Starting a career in BlueTeam** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
+- 📜 **LetsDefend - SOC Member** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/LetsDefend%20-%20SOC%20Member.pdf)
+- 📜 **VK Education - Введение в основы информационной безопасности** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/vk%20education%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20.pdf)
+- 📜 **VK Education - Введение в основы информационной безопасности #2** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/vk%20education%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%202.pdf)
+
+
 <br/>
 
 <img src="https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" align="left" height="350" width="760" style="border: none; outline: none;" />
