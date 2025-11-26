@@ -53,7 +53,7 @@
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Мой Telegram_канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">](https://t.me/tohfams_tp)
+[<img src="https://img.shields.io/badge/Мой ТГК_(interesting)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">](https://t.me/tohfams_tp)
 
 <br/>
 
