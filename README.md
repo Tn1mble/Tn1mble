@@ -45,7 +45,6 @@
 - 📜 **Splunk - intro to Splunk** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate.pdf)
 - 📜 **Splunk - Using Fields** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate2.pdf)
 - 📜 **Splunk - Scheduling Reports & Alerts** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
-- 📜 **Splunk - Scheduling Reports & Alerts** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
 - 📜 **Stepik - Starting a career in BlueTeam** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
 - 📜 **LetsDefend - SOC Member** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/LetsDefend%20-%20SOC%20Member.pdf)
 - 📜 **VK Education - Введение в основы информационной безопасности** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/vk%20education%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20.pdf)
