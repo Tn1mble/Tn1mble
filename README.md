@@ -37,7 +37,7 @@
 
 🏆 Сертификаты и мои достижения
 
-- 📜 **CISCO - Introduction to Cybersecurity** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/Splunk%20-%20Certificate3.pdf)
+- 📜 **CISCO - Introduction to Cybersecurity** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/%D0%A1ISCO%20-%20I2CSUpdate20250925-31-14i7zr.pdf)
 - 📜 **FORTINET - Course_Completion_Certificate 1** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/FORTINET%20-%20Course_Completion_Certificate%201.pdf)
 - 📜 **FORTINET - Course_Completion_Certificate 2** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/FORTINET%20-%20Course_Completion_Certificate%202.pdf)
 - 📜 **FORTINET - Course_Completion_Certificate 3** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/FORTINET%20-%20Course_Completion_Certificate%203.pdf)
