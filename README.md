@@ -50,8 +50,12 @@
 - 📜 **VK Education - Введение в основы информационной безопасности** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/vk%20education%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20.pdf)
 - 📜 **VK Education - Введение в основы информационной безопасности #2** - [Открыть PDF](https://github.com/Tn1mble/Tn1mble/blob/main/vk%20education%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%202.pdf)
 
+<br/>
+
+[MY PROJECTS FOR SOC](https://github.com/users/Tn1mble/projects/1/views/1)
 
 <br/>
+
 
 [<img src="https://img.shields.io/badge/Мой ТГК_(interesting)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">](https://t.me/tohfams_tp)
 
